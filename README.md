@@ -1,8 +1,14 @@
-# ⚔️ REBORN IN THE SHADOW — Repositório de Mapas
+# REBORN IN THE SHADOW — Repositório de Mapas
 
-<p align="center">
-  <img src="logo.png" width="150" height="150" style="border-radius: 50%;">
-</p>
+![Banner](hero_professional.png)
+
+<div align="center">
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Community](https://img.shields.io/badge/Community-Taverna-blue.svg)](comunidade.html)
+[![Discord](https://img.shields.io/badge/Discord-Soon-purple.svg)]()
+
+</div>
 
 ## 🌌 Sobre o Projeto
 Bem-vindo ao repositório oficial da comunidade de **Reborn in the Shadow**. Este é o coração do nosso reino, onde aventureiros e arquitetos de mundos se reúnem para expandir as fronteiras do nosso jogo open-source em Pixel Art.
@@ -14,9 +20,9 @@ Aqui é onde guardamos os **Mapas Customizados**, **Assets** e a própria alma d
 ## 🗺️ Como Colaborar? (Submeter seu Mapa)
 Transforme suas visões em realidade! Para enviar seu mapa e ele aparecer para todos os jogadores:
 
-1. **Prepare seus arquivos:** Vá na pasta do seu jogo, localize `/maps` e compacte seu mapa em um `.ZIP`.
-2. **Abra um Pull Request:** Vá na aba [Pull Requests](https://github.com/tgpsi23nicollasnodari-art/Servidor/pulls) e envie seu arquivo dentro da pasta `/custom_maps`.
-3. **Aguarde a Revisão:** Nossa guilda de desenvolvedores irá revisar e "lacrear" seu pergaminho no projeto oficial!
+1. 📂 **Prepare seus arquivos:** Vá na pasta do seu jogo, localize `/maps` e compacte seu mapa em um `.ZIP`.
+2. 🚀 **Abra um Pull Request:** Vá na aba [Pull Requests](https://github.com/tgpsi23nicollasnodari-art/Servidor/pulls) e envie seu arquivo dentro da pasta `/custom_maps`.
+3. 🛡️ **Aguarde a Revisão:** Nossa guilda de desenvolvedores irá revisar e "lacrear" seu pergaminho no projeto oficial!
 
 ---
 
