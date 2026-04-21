@@ -1,73 +1,333 @@
-<!-- Banner -->
 <div align="center">
-  <img src="https://a.lovart.ai/artifacts/agent/f8NLahcxJMKSuiRT.png" width="100%" alt="Banner"/>
-</div>
 
-<!-- Typing Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+%5BSeu+Nome%5D!+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Apaixonado+por+Tecnologia+%E2%9A%A1;Sempre+aprendendo+coisas+novas+%F0%9F%9A%80" alt="Typing Animation" />
-</div>
+<!-- HEADER ANIMADO -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:000000,50:1a0a0a,100:2d0a0a&text=⚔️%20REALM%20OF%20MAPS%20⚔️&fontSize=50&fontColor=8B0000&animation=fadeIn&fontAlignY=35&desc=📜%20Where%20Darkness%20Meets%20Creation%20📜&descSize=20&descAlignY=55&descAlign=50"/>
 
-<!-- Divider -->
+<!-- SKULLS ANIMADOS -->
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="80" />
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+
+<br><br>
+
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=30&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=🩸+ENTRE+NO+REINO+DAS+TREVAS+🩸;⚰️+COMPARTILHE+SEUS+MAPAS+SOMBRIOS+⚰️;🗡️+A+ESCURIDÃO+AGUARDA+SUA+CRIAÇÃO+🗡️" alt="Typing SVG" /></a>
+
+<br>
+
+<!-- SNAKE ANIMATION -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+<br><br>
+
+<!-- DIVISOR GÓTICO -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- About Me -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Sobre Mim
+</div>
 
-```javascript
-const developer = {
-    nome: "Seu Nome",
-    localiza￧￣o: "🌍 Brasil",
-    fun￧￣o: "Full Stack Developer",
-    linguagens: ["JavaScript", "Python", "TypeScript", "Java"],
-    frameworks: ["React", "Node.js", "Next.js", "Express"],
-    bancoDeDados: ["MongoDB", "PostgreSQL", "MySQL"],
-    ferramentas: ["Docker", "Git", "AWS", "Figma"],
-    hobbies: ["💻 Codar", "🎮 Games", "📚 Ler", "☕ Caf￩"],
-    atualmenteAprendendo: "🚀 Novas tecnologias e frameworks",
-    objetivo: "Criar soluções que impactam vidas"
-};
-<!-- Tech Stack -->
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Stack
+<!-- ARTE ASCII MEDIEVAL -->
+```
+                    ⚔️ WELCOME TO THE DARK REALM ⚔️
+    
+         ╔══════════════════════════════════════════════════════╗
+         ║  ▄▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▄   ║
+         ║  █  ██████╗ ███████╗ █████╗ ██╗     ███╗   ███╗  █   ║
+         ║  █  ██╔══██╗██╔════╝██╔══██╗██║     ████╗ ████║  █   ║
+         ║  █  ██████╔╝█████╗  ███████║██║     ██╔████╔██║  █   ║
+         ║  █  ██╔══██╗██╔══╝  ██╔══██║██║     ██║╚██╔╝██║  █   ║
+         ║  █  ██║  ██║███████╗██║  ██║███████╗██║ ╚═╝ ██║  █   ║
+         ║  █  ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝  █   ║
+         ║  ▀▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▀   ║
+         ║              ⚰️  OF DARK MAPS  ⚰️                    ║
+         ╚══════════════════════════════════════════════════════╝
+    
+              🏰          🗡️          💀          ⚔️          🏰
+             /||\\       /   \        |||        /   \       /||\\
+            / || \\     / === \      /|||       / === \     / || \\
+           |  ||  |    |  |||  |    / ||| \    |  |||  |   |  ||  |
+           |______| 🔥 |_______| 🔥 |_____|  🔥|_______| 🔥 |______|
+```
+
 <div align="center">
-💻 Linguagens
 
-🎨 Frontend
+<!-- BADGES ANIMADOS -->
+<img src="https://img.shields.io/badge/🩸_STATUS-ACTIVE_REALM-8B0000?style=for-the-badge&labelColor=000000&logoColor=white"/>
+<img src="https://img.shields.io/badge/⚔️_MAPS-UNLIMITED-4a0404?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/💀_DARKNESS-100%25-2d0a0a?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/🗡️_WARRIORS-WELCOME-1a0505?style=for-the-badge&labelColor=000000"/>
 
-⚙️ Backend
-
-🗄️ Banco de Dados
-
-🛠️ Ferramentas
-
-</div> <!-- GitHub Stats -->
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Stats
-<div align="center"> <!-- Profile Views Counter --> <img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&label=Profile%20views&color=8A2BE2&style=for-the-badge" alt="Profile Views" />
 <br><br>
 
-<!-- GitHub Stats Cards --> <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&count_private=true&hide_border=true&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&hide_border=true&title_color=A855F7&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+<!-- GIF MEDIEVAL -->
+<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="400"/>
+
+<br>
+
+<!-- DIVISOR -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **SOBRE O REINO**
+
+<img align="right" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200"/>
+
+```diff
++ 🏰 Este é o repositório sagrado onde guerreiros das trevas
++ 🗺️ compartilham seus mapas criados para o nosso reino
++ ⚔️ Cada mapa é uma nova aventura na escuridão
++ 💀 Contribua com suas criações sombrias
++ 🔥 Juntos construímos o maior acervo de mapas
+```
+
+<br clear="right"/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **ESTRUTURA DAS TREVAS**
+
+<div align="center">
+
+```
+🏴 REALM-OF-MAPS/
+│
+├── 🗡️ dungeons/
+│   ├── 📜 dungeon_inferno.map
+│   ├── 📜 dungeon_abyss.map
+│   └── 📜 dungeon_shadow.map
+│
+├── ⚔️ castles/
+│   ├── 📜 castle_blood.map
+│   ├── 📜 castle_darkness.map
+│   └── 📜 castle_doom.map
+│
+├── 💀 arenas/
+│   ├── 📜 arena_death.map
+│   ├── 📜 arena_chaos.map
+│   └── 📜 arena_souls.map
+│
+├── 🔥 boss_rooms/
+│   ├── 📜 lair_dragon.map
+│   ├── 📜 lair_demon.map
+│   └── 📜 lair_lich.map
+│
+├── 🌑 open_world/
+│   ├── 📜 forest_cursed.map
+│   ├── 📜 valley_shadows.map
+│   └── 📜 mountain_doom.map
+│
+└── 📖 README.md
+```
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> **COMO CONTRIBUIR COM SEU MAPA**
+
+<div align="center">
+<img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" width="300"/>
+</div>
+
+<br>
+
+### 📜 **PASSO A PASSO PARA GUERREIROS**
+
+<details>
+<summary>⚔️ <b>CLIQUE AQUI PARA REVELAR OS SEGREDOS</b> ⚔️</summary>
+
+<br>
+
+```bash
+# 🩸 1. Clone o repositório das trevas
+git clone https://github.com/SEU-USUARIO/realm-of-maps.git
+
+# 💀 2. Entre no reino
+cd realm-of-maps
+
+# ⚰️ 3. Crie sua branch sombria
+git checkout -b meu-mapa-sombrio
+
+# 🗡️ 4. Adicione seu mapa na pasta correta
+# Coloque seu arquivo .map na categoria apropriada
+
+# 🔥 5. Commit suas mudanças
+git add .
+git commit -m "⚔️ Adicionando mapa: [NOME_DO_MAPA]"
+
+# 🏴 6. Push para o reino
+git push origin meu-mapa-sombrio
+
+# 💀 7. Abra um Pull Request
+# Descreva seu mapa e aguarde aprovação dos guardiões
+```
+
+</details>
+
+<br>
+
+### 🗡️ **FORMATO DO MAPA**
+
+```yaml
+# ═══════════════════════════════════════
+# 🩸 INFORMAÇÕES DO MAPA
+# ═══════════════════════════════════════
+nome: "Calabouço do Tormento"
+autor: "SeuNomeDeGuerra"
+categoria: "dungeons"
+dificuldade: "☠️☠️☠️☠️☠️" # 1-5 caveiras
+versao: "1.0"
+data_criacao: "2024-XX-XX"
+
+# ═══════════════════════════════════════
+# 📜 DESCRIÇÃO
+# ═══════════════════════════════════════
+descricao: |
+  Um calabouço onde as almas perdidas vagam
+  eternamente em busca de redenção...
+  
+# ═══════════════════════════════════════
+# ⚔️ CARACTERÍSTICAS
+# ═══════════════════════════════════════
+caracteristicas:
+  - 🔥 Boss final épico
+  - 💎 Tesouros escondidos
+  - ⚰️ Armadilhas mortais
+  - 👻 NPCs misteriosos
+```
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+## <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="30"> **MAPAS EM DESTAQUE**
+
+<div align="center">
+
+| 🏆 RANK | 🗺️ NOME DO MAPA | ⚔️ CRIADOR | 💀 DIFICULDADE | ⭐ AVALIAÇÃO |
+|:---:|:---|:---:|:---:|:---:|
+| 🥇 | Abismo do Desespero | `@DarkLord` | ☠️☠️☠️☠️☠️ | ⭐⭐⭐⭐⭐ |
+| 🥈 | Castelo Maldito | `@ShadowKnight` | ☠️☠️☠️☠️ | ⭐⭐⭐⭐⭐ |
+| 🥉 | Floresta dos Mortos | `@NightHunter` | ☠️☠️☠️ | ⭐⭐⭐⭐ |
+| 4️⃣ | Arena do Caos | `@BloodReaper` | ☠️☠️☠️☠️☠️ | ⭐⭐⭐⭐ |
+| 5️⃣ | Covil do Dragão | `@DeathBringer` | ☠️☠️☠️☠️ | ⭐⭐⭐⭐ |
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> **GUARDIÕES DO REINO**
+
+<div align="center">
+
+<a href="https://github.com/SEU-USUARIO">
+<img src="https://img.shields.io/badge/⚔️_DARK_LORD-ADMIN-8B0000?style=for-the-badge&labelColor=000000"/>
+</a>
+
 <br><br>
 
-<!-- Streak Stats --> <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=A855F7&currStreakLabel=A855F7&sideLabels=A855F7&dates=FFFFFF" alt="GitHub Streak" />
+<!-- STATS ANIMADOS -->
+<img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dark&bg_color=0d1117&title_color=8B0000&text_color=ffffff&icon_color=8B0000&border_color=2d0a0a&hide_border=false"/>
+
 <br><br>
 
-<!-- Activity Graph --> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&hide_border=true" alt="Activity Graph" /> </div> <!-- Trophies -->
-<img src="https://media.giphy.com/media/4rZA5wbZNl8pa/giphy.gif" width="30"> Trof￩us
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=SEU_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" /> </div> <!-- Projects -->
-<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="30"> Projetos Destacados
+<!-- STREAK STATS -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=dark&background=0d1117&border=2d0a0a&stroke=8B0000&ring=8B0000&fire=ff0000&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=8B0000&sideLabels=8B0000&dates=666666"/>
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+## <img src="https://media.giphy.com/media/XwcRflO9HD0Sk6RaRM/giphy.gif" width="30"> **REGRAS DO REINO**
+
 <div align="center">
 
+```diff
+@@                    ⚔️ CÓDIGO DOS GUERREIROS ⚔️                    @@
 
-</div> <!-- Snake Animation -->
-<img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="30"> Contribui￧￵es
-<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-snake.svg" /> <img alt="github-snake" src="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-snake.svg" /> </picture> </div> <!-- Spotify -->
-<img src="https://media.giphy.com/media/6acNTKBHYL2xG/giphy.gif" width="30"> Ouvindo Agora
+! 🩸 1. RESPEITE OS DEMAIS GUERREIROS
+! 💀 2. NÃO COPIE MAPAS SEM CRÉDITOS
+! ⚰️ 3. TESTE SEU MAPA ANTES DE ENVIAR
+! 🗡️ 4. SIGA O FORMATO PADRÃO
+! 🔥 5. DESCRIÇÕES DETALHADAS SÃO BEM-VINDAS
+! 🏴 6. BUGS DEVEM SER REPORTADOS NAS ISSUES
+! ⚔️ 7. DIVIRTA-SE NAS TREVAS
+
+- ❌ PROIBIDO: Conteúdo ofensivo ou ilegal
+- ❌ PROIBIDO: Spam ou auto-promoção excessiva  
+- ❌ PROIBIDO: Mapas com malware ou código malicioso
+
++ ✅ PERMITIDO: Criatividade sem limites
++ ✅ PERMITIDO: Colaboração entre guerreiros
++ ✅ PERMITIDO: Feedback construtivo
+```
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> **JUNTE-SE À LEGIÃO**
+
 <div align="center">
 
-</div> <!-- Contact -->
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Vamos Conectar!
+<a href="https://discord.gg/SEU-DISCORD">
+<img src="https://img.shields.io/badge/Discord-🗡️_JUNTE--SE-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000"/>
+</a>
+<a href="https://twitter.com/SEU-TWITTER">
+<img src="https://img.shields.io/badge/Twitter-⚔️_SIGA--NOS-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000"/>
+</a>
+<a href="https://www.youtube.com/SEU-CANAL">
+<img src="https://img.shields.io/badge/YouTube-🔥_INSCREVA--SE-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000"/>
+</a>
+
+<br><br>
+
+<!-- VISITOR COUNTER -->
+<img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&label=⚔️%20VISITANTES%20DO%20REINO&color=8B0000&style=for-the-badge&labelColor=000000"/>
+
+<br><br>
+
+<!-- WAVE ANIMATION -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:000000,50:1a0a0a,100:2d0a0a&section=footer&text=🔥%20A%20ESCURIDÃO%20AGUARDA%20🔥&fontSize=25&fontColor=8B0000&fontAlignY=70&animation=fadeIn"/>
+
+</div>
+
+<!-- FOOTER ASCII -->
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   ███████╗ ██████╗ ██████╗      ██████╗ ██╗      ██████╗ ██████╗ ██╗   ██╗   ║
+║   ██╔════╝██╔═══██╗██╔══██╗    ██╔════╝ ██║     ██╔═══██╗██╔══██╗╚██╗ ██╔╝   ║
+║   █████╗  ██║   ██║██████╔╝    ██║  ███╗██║     ██║   ██║██████╔╝ ╚████╔╝    ║
+║   ██╔══╝  ██║   ██║██╔══██╗    ██║   ██║██║     ██║   ██║██╔══██╗  ╚██╔╝     ║
+║   ██║     ╚██████╔╝██║  ██║    ╚██████╔╝███████╗╚██████╔╝██║  ██║   ██║      ║
+║   ╚═╝      ╚═════╝ ╚═╝  ╚═╝     ╚═════╝ ╚══════╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝      ║
+║                                                                              ║
+║                    ⚔️  FORGE YOUR LEGACY IN DARKNESS  ⚔️                     ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+                              Made with 🩸 by DarkLord
+                           © 2024 Realm of Maps - All Rights Reserved
+```
+
 <div align="center">
 
-</div> <!-- Footer --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Obrigado%20pela%20visita!&fontSize=24&fontColor=fff&animation=twinkling" width="100%"/> </div> <!-- Quotes --> <div align="center">
-✨ "C￳digo ￩ poesia escrita em lógica" ✨
-</div> ```
+<img src="https://media.giphy.com/media/jpbnoe3UIa8TU8LM13/giphy.gif" width="150"/>
+
+**⚔️ LONG LIVE THE DARK REALM ⚔️**
+
+</div>
